@@ -1,8 +1,8 @@
 import openai
 import streamlit as st
 
-openai.api_key = '41998f15ec004e8ebe3286b99dd6a19a'
-openai.azure_endpoint='https://openai-demo-swd.openai.azure.com/'
+openai.api_key = ''
+openai.azure_endpoint=''
 openai.api_type = 'azure'
 openai.api_version = '2023-05-15'
 
